@@ -1,19 +1,49 @@
-# Hi there 👋, I'm [Mikkel Skyt]
+<!-- Profile header -->
+<h1 align="center">Hi, I'm Mikkel 👋</h1>
+<p align="center">
+  Datamatiker @ UCL • C# / Unity / WPF • Game dev & software design
+</p>
 
-## 🚀 About Me
-- 🌱 I’m currently learning **C#, Unity, MVC and so on..**
-- 👨‍💻 Datamatiker student at UCL in Odense
-- 🎮 Interested in **game development** and **software design**
+<!-- Stats row -->
+<div align="center">
 
-## 🛠️ Languages and Tools
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MikkelNotAvailable&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true"
+    height="145"
+    alt="GitHub Stats"
+  />
 
-## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=MikkelNotAvailable&theme=transparent&hide_longest_streak=true"
+    height="145"
+    alt="GitHub Streak"
+  />
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkel-skyt-1b2bb1280/)
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelNotAvailable&layout=compact&theme=transparent&card_width=320"
+    height="145"
+    alt="Top Languages"
+  />
+
+</div>
+
+<!-- Tech -->
+<h3>Tech I use</h3>
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+</p>
+
+<!-- Links -->
+<h3>Connect</h3>
+<p>
+  <a href="https://linkedin.com/in/mikkel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+</p>
