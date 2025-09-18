@@ -1,24 +1,16 @@
-<h2 align="center">Stats</h2>
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MikkelNotAvailable&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MikkelNotAvailable&show_icons=true&theme=default&rank_icon=github&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MikkelNotAvailable&show_icons=true" height="150" />
-  </picture>
+# Hi there 👋, I'm [Mikkel Skyt]
 
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=MikkelNotAvailable&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com?user=MikkelNotAvailable" media="(prefers-color-scheme: light)" />
-    <img src="https://streak-stats.demolab.com?user=MikkelNotAvailable" height="150" />
-  </picture>
+## 🚀 About Me
+- 🌱 I’m currently learning **C#, Unity, WPF and MVC**
+- 👨‍💻 Datamatiker student at UCL in Odense
+- 🎮 Interested in **game development**, **software design** and **cybersecurity**
 
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelNotAvailable&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelNotAvailable&layout=compact" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelNotAvailable&layout=compact" height="150" />
-  </picture>
-</p>
+## 🛠️ Languages and Tools
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://acesse.one/Zpzer)
