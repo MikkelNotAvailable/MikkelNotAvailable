@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Mikkel Skyt]
+# Hi there 👋, I'm Mikkel Skyt
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **C#, Unity, WPF and MVC**
