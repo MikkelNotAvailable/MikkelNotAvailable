@@ -13,4 +13,4 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://acesse.one/Zpzer)
+[![LinkedIn](https://www.linkedin.com/in/mikkel-skyt-1b2bb1280/)
