@@ -12,5 +12,3 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🌐 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/mikkel-skyt-1b2bb1280/)
